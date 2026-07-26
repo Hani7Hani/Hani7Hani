@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hani7Hani
+- 👋 Hi, I’m Hanie
 - 👀 I’m interested in `Deep Learning` AND `Data Science`
 - 🌱 I’m currently System Analyst
 - 🔬 Machine learning practitioner with a background in bioinformatics and computer science. 
