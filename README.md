@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @Hani7Hani
-- 👀 I’m interested in `WEB DEVELOPMENT` AND `MATHEMATICS`
-- 🌱 I’m currently `COMPUTER SCIENCE` student at `POLYTECHNIC UNIVERSITY of TEHRAN`
-- 💞️ I’m looking to collaborate on [ChatSon](https://github.com/Arian8Ultra/ChatSon)
+- 👀 I’m interested in `Deep Learning` AND `Data Science`
+- 🌱 I’m currently System Analyst
+- 🔬 Machine learning practitioner with a background in bioinformatics and computer science. 
+- 💞️ Currently exploring: PyTorch, Hugging Face Transformers, Vision Transformers, GANs
+- 📫 Reach me: [www.linkedin.com/in/hanie-heydari-3642ba221]
+
